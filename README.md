@@ -19,6 +19,6 @@ Before you begin, make sure you have the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/azure-data-engineering-terraform.git
-   cd azure-data-engineering-terraform
+   git clone https://github.com/LeelaPrasadKavuri/Azure-Data-Engineering-Infrastructure-Automation-with-Terraform.git
+   cd Azure-Data-Engineering-Infrastructure-Automation-with-Terraform
    terraform init
